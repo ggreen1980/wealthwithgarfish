@@ -2,6 +2,11 @@
 
 Everything finance. Personal and business income, budgeting, tax planning, and wealth building.
 
+# Digital Ocean
+
+This site is hosted on dital ocean
+
+
 ## Available Scripts
 
 In the project directory, you can run:
