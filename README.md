@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wealth With Garfish
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Everything finance. Personal and business income, budgeting, tax planning, and wealth building.
 
 ## Available Scripts
 
